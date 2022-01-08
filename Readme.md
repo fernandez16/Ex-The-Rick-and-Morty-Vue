@@ -5,6 +5,7 @@
 
 ## Requierement
 
+- Vue
 - Node.js
 - NPM
 
